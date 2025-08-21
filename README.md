@@ -65,9 +65,9 @@ Currently, I’m focusing on **MERN development**, **backend systems**, and **pr
 
 ## 📈 Contribution Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-jondhale&custom_title=Contribution%20Activity&bg_color=0D1117&color=79C0FF&line=58A6FF&point=C9D1D9&area_color=58A6FF&area=true&hide_border=true" width="95%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj-jondhale&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%">
+</p>
 
 ---
 
